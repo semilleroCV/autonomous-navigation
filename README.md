@@ -25,6 +25,8 @@ Welcome to the Autonomous Navigation research line of the Hands-on Computer Visi
 │    │
 │    └── utils.py      <- Useful functions
 │
+├── data             <- Data available and for work.
+│
 ├── notebooks          <- Jupyter notebooks. Naming convention is a short `-` delimited description,
 │   │                    
 │   │
